@@ -1,0 +1,488 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.salom {
+    background: #F9F9F9;
+    margin: 30px auto;
+    width: 1220px;
+
+
+
+
+}
+
+.navbar_ {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+
+
+}
+
+.printing {
+    width: 134px;
+    height: 32px;
+    color: #111;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    margin-top: 34px;
+    /* 177.778% */
+    text-transform: uppercase;
+}
+
+.navbar_ ul {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.navbar_ li {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    list-style: none;
+    /* 19.2px */
+}
+
+.class1 {
+    width: 44px;
+    height: 19px;
+}
+
+.class2 {
+    width: 68px;
+    height: 19px;
+    margin-left: 47px;
+}
+
+.class3 {
+    width: 78px;
+    height: 19px;
+    margin-left: 38px;
+}
+
+
+.navbar_ button {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    text-transform: uppercase;
+    background: #111;
+    border: none;
+
+}
+
+.navbar_ .button-1 {
+    width: 200px;
+    height: 50px;
+    flex-shrink: 0;
+    background: #111;
+    padding: 9px 55px;
+    box-sizing: border-box;
+    margin-top: 25px;
+    border: none;
+}
+
+.we-help button {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    text-transform: uppercase;
+    background: #111;
+    border: none;
+}
+
+.we-help .button-1 {
+    width: 200px;
+    height: 50px;
+    flex-shrink: 0;
+    background: #111;
+    padding: 9px 55px;
+    box-sizing: border-box;
+    margin-top: 60px;
+}
+
+.we-help {
+    width: 1170px;
+    height: 470px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 62px;
+    margin-left: 25px;
+}
+
+
+.we-help .good {
+    width: 540px;
+    height: 156px;
+    color: #000;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    margin-top: 41px;
+    text-transform: uppercase;
+}
+
+.we-help .Quality {
+    width: 399px;
+    height: 34px;
+    color: #000;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    margin-top: 33px;
+
+}
+
+.we-help .over {
+    width: 376px;
+    height: 22px;
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    margin-top: 60px;
+    margin-left: 65px;
+
+}
+
+
+.americans {
+    display: flex;
+    justify-content: space-between;
+    width: 1170px;
+    height: 514px;
+    margin-left: 25px;
+    margin-top: 278px;
+}
+
+.americans img {
+    width: 522px;
+    height: 514px;
+}
+
+.content_text2 {
+    margin-left: 98px;
+}
+
+.content_text2 .belivier {
+    width: 547px;
+    height: 150px;
+    color: #000;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+
+
+}
+
+
+.content_text2 .bel {
+    width: 620px;
+    height: 140px;
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    margin-top: 39px;
+
+}
+
+.content_text2 .ctn-text {
+    width: 620px;
+    height: 118px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 67px;
+}
+
+.content_text2 .ctn-email {
+    width: 285px;
+    height: 118px;
+    padding-top: 24px;
+    padding-left: 110px;
+    box-sizing: border-box;
+}
+
+.content_text2 .direct-email {
+    width: 285px;
+    height: 118px;
+    padding-top: 24px;
+    padding-left: 81px;
+    box-sizing: border-box;
+}
+
+.content_text2 .ctn-email .seconds {
+    width: 122px;
+    height: 35px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+
+}
+
+.content_text2 .direct-email .days {
+    width: 87px;
+    height: 35px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    /* 145.833% */
+}
+
+.content_text2 .ctn-email button {
+    width: 64px;
+    height: 35px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    border: none;
+}
+
+.content_text2 .direct-email button {
+    width: 124px;
+    height: 35px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    border: none;
+}
+
+
+
+.print {
+    width: 314px;
+    height: 50px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    margin-top: 189px;
+    margin-left: 428px;
+
+}
+
+.print_map {
+    margin-top: 50px;
+
+}
+
+.print_map .text {
+    margin-top: 18px;
+    width: 225px;
+    text-align: center;
+    margin-bottom: 18px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    /* 123.077% */
+
+}
+
+
+.row {
+    width: 1170px;
+    margin-left: 25px;
+
+}
+
+.see {
+    width: 280px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    background: #F9F9F9;
+    border: 1px solid #000;
+    padding-top: 13px;
+    padding-left: 82px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 470px;
+    margin-top: 60px;
+}
+
+
+.see button {
+    width: 67px;
+    height: 35px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35px;
+    border: none;
+
+}
+
+.see .fff {
+    width: 120px;
+    text-align: center;
+    align-items: center;
+}
+
+.see img {
+    width: 30px;
+    height: 30px;
+    stroke-width: 2px;
+    stroke: #000;
+    margin-left: 18px;
+}
+
+.cut {
+    display: flex;
+    justify-content: space-between;
+    width: 1170px;
+    height: 398px;
+    margin-left: 25px;
+    margin-top: 200px;
+}
+
+.cut .text_9 {
+    margin-left: 98px;
+}
+
+.cut img {
+    width: 522px;
+    height: 398px;
+    flex-shrink: 0;
+}
+
+.cut .through {
+    width: 516px;
+    height: 100px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+
+}
+
+
+.cut .thr {
+    width: 580px;
+    height: 140px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    margin-top: 48px;
+
+}
+
+
+.cut .button-1 {
+    width: 200px;
+    height: 50px;
+    flex-shrink: 0;
+    background: #111;
+    padding: 9px 55px;
+    box-sizing: border-box;
+    margin-top: 60px;
+}
+
+.cut button {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    text-transform: uppercase;
+    background: #111;
+    border: none;
+}
+
+
+
+#list {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+
+#list li {
+    width: 513px;
+    height: 19px;
+    color: #000;
+    font-family: Livvic;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+    margin-left: 20px;
+    margin-top: 142px;
+    opacity: 0.5;
+    list-style: none;
+
+}
+
+#list li:hover {
+    opacity: 1;
+}
+
+
+.icons {
+    margin-top: 51px;
+    margin-left: 519px;
+
+}
+
+.icons img {
+    width: 24px;
+    height: 22.154px;
+    flex-shrink: 0;
+    margin-left: 30px;
+}
+
+
+.street {
+    width: 291px;
+    height: 48px;
+    color: #000;
+    text-align: center;
+    font-family: Livvic;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    opacity: 0.7;
+    margin-top: 28px;
+    margin-left: 480px;
+}
