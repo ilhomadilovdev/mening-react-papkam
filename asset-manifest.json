@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ilhomadilovdev/mening-react-papkam/static/css/main.f82c2103.css",
+    "main.js": "/ilhomadilovdev/mening-react-papkam/static/js/main.03f34b21.js",
+    "index.html": "/ilhomadilovdev/mening-react-papkam/index.html",
+    "main.f82c2103.css.map": "/ilhomadilovdev/mening-react-papkam/static/css/main.f82c2103.css.map",
+    "main.03f34b21.js.map": "/ilhomadilovdev/mening-react-papkam/static/js/main.03f34b21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f82c2103.css",
+    "static/js/main.03f34b21.js"
+  ]
+}
